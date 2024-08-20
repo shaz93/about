@@ -1,9 +1,21 @@
 h1 {
-    font-size: 66px;
-    font-family: "poppins" sans-serif;
+    font-size: 64px;
+    font-family:"poppins", sans-serif;
+    padding: 10px;
+    margin-top: 10px;
 
 }
 h2 {
     font-size: 36;
-    font-family: "playfair display" serif;
+    font-family:"playfair display", serif;
+    padding: 10px;
+}
+.btn-branding {
+    background-color: rgb(95, 95, 245);
+    padding: 20px;
+    color: white;
+    border-radius: 6px;
+}
+p{
+    margin-bottom: 40px;
 }
